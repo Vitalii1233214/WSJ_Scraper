@@ -2,7 +2,7 @@ The server is running on
 
     http://154.53.43.187:5005/
 
-In order to perform new scrapping for a current day, please use send get request to:
+In order to perform new scrapping for a current day, please send get request to:
 
     http://154.53.43.187:5005/scrape_new_urls/
 
